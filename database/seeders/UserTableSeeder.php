@@ -25,7 +25,6 @@ class UserTableSeeder extends Seeder
                 'email' => 'fab@gmail.com',
                 'password' => bcrypt('admin'),
                 'role_id' => '1',
-                'chambre_id' => '2'
             ],
 
         ]);
